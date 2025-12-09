@@ -10,5 +10,4 @@ I'm a Software Engineer at **LiiLab**, working on the **mobile team** to build a
 I enjoy tackling challenging problems and optimizing solutions, with a strong foundation in algorithms and data structures. My goal is to combine creativity with technical expertise to deliver applications that users love.
 
 ## Get in Touch
-- 📫 Email: mhmuhimmh@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/mudabbir-hussain131
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmuhimmh@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudabbir-hussain131)  
