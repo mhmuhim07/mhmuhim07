@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Mudabbir Hussain 
 
-<!--
-**mhmuhim07/mhmuhim07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer at **LiiLab**, working on the **mobile team** to build and maintain the **One-IELTS app**. I am passionate about solving complex problems, designing efficient algorithms, and delivering scalable, high-quality software solutions.
 
-Here are some ideas to get you started:
+- 🔹 **Current Focus:** Mobile app development, problem-solving, and algorithmic challenges  
+- 🔹 **Tech Stack:** Flutter, Dart, Firebase, REST APIs, Git  
+- 🔹 **Interests:** Exploring new technologies, improving app performance, and building impactful software  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I enjoy tackling challenging problems and optimizing solutions, with a strong foundation in algorithms and data structures. My goal is to combine creativity with technical expertise to deliver applications that users love.
+
+## Get in Touch
+- 📫 Email: mhmuhimmh@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/mudabbir-hussain131
