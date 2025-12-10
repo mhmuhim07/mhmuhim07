@@ -1,6 +1,11 @@
-# Hi there, I'm Mudabbir Hussain 👋
+<div align="center">
 
-**Software Engineer | Competitive Programmer | Mobile Application Developer**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=1&pause=100000&color=2F84EB&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Mudabbir" alt="Hi There! I'm Mudabbir" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=2F84EB&center=true&vCenter=true&width=600&lines=Software+Engineer;Competitive+Programmer" alt="Software Engineer | Competitive Programmer" />
+
+
+</div>
 
 I am a Software Engineer at **LiiLab**, currently working on the **One-IELTS app** with the mobile team. With a deep background in algorithmic problem solving and backend development, I bridge the gap between complex logic and user-friendly mobile experiences.
 
