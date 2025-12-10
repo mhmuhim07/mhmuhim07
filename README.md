@@ -17,7 +17,7 @@ I am a Software Engineer at **LiiLab**, currently working on the **One-IELTS app
 * 🎓 **Education:** B.Sc in Computer Science and Engineering from **Metropolitan University, Sylhet** (CGPA: 3.84).
 * 🧠 **Problem Solving:** I have a strong foundation in Data Structures & Algorithms, having solved **1500+ problems** across various online judges.
 * 🏆 **Competitive Programming:**
-    * [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mhmuhim) **Max Rating:** 1939 (4⭐)
+    * [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mhmuhim) **Max Rating:** 1968 (4⭐)
     * [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mhmuhim) **Max Rating:** 1627 (Expert)
     * Participated in **200+ online contests** and 10+ national-level competitions.
 
