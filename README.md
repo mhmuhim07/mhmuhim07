@@ -11,19 +11,19 @@ I am a Software Engineer at **LiiLab**, currently working on the **One-IELTS app
 
 ---
 
-### 🚀 **About Me**
+### **About Me**
 
-* 💼 **Current Role:** Software Engineer at **LiiLab** (Mobile Team).
-* 🎓 **Education:** B.Sc in Computer Science and Engineering from **Metropolitan University, Sylhet** (CGPA: 3.84).
-* 🧠 **Problem Solving:** I have a strong foundation in Data Structures & Algorithms, having solved **1500+ problems** across various online judges.
-* 🏆 **Competitive Programming:**
+* **Current Role:** Software Engineer at **LiiLab** (Mobile Team).
+* **Education:** B.Sc in Computer Science and Engineering from **Metropolitan University, Sylhet** (CGPA: 3.84).
+* **Problem Solving:** I have a strong foundation in Data Structures & Algorithms, having solved **1500+ problems** across various online judges.
+* **Competitive Programming:**
     * [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mhmuhim) **Max Rating:** 1968 (4⭐)
     * [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mhmuhim) **Max Rating:** 1627 (Expert)
     * Participated in **200+ online contests** and 10+ national-level competitions.
 
 ---
 
-### 🛠 **Tech Stack**
+### **Tech Stack**
 
 **Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -36,21 +36,21 @@ I am a Software Engineer at **LiiLab**, currently working on the **One-IELTS app
 
 ---
 
-### 👨‍💻 **Projects & Experience**
+### **Projects & Experience**
 
-#### 📱 **One-IELTS App (LiiLab)**
+#### **One-IELTS App (LiiLab)**
 * *Current Role*
 * Developing features for a mobile platform helping students prepare for IELTS.
 * **Stack:** Flutter, Dart, Firebase, REST APIs, Git.
 
-#### 📹 **Video-Tube**
+#### **Video-Tube**
 * Built a robust backend for a video hosting platform.
 * **Features:** User authentication, video management, and security best practices using JWT.
 * **Stack:** Node.js, Express.js, MongoDB.
 
 ---
 
-### 🏅 **Notable Achievements**
+### **Notable Achievements**
 
 * **Champion:** MU CSE Fest 2023 (Team: NotDoneYet).
 * **2nd Runner-up:** MU Inter-University Programming Contest (Sylhet Division).
@@ -59,6 +59,6 @@ I am a Software Engineer at **LiiLab**, currently working on the **One-IELTS app
 
 ---
 
-### 📫 **Get in Touch**
+### **Get in Touch**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmuhimmh@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudabbir-hussain131)
